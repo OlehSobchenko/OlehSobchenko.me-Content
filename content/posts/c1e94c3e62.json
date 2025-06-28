@@ -1,0 +1,19 @@
+{
+  "uk": {
+    "createdAt": "2025-06-28T10:43:00.000Z",
+    "id": "c1e94c3e62",
+    "path": "dsfsdfs",
+    "title": "fsdf",
+    "categoryId": "c350363083",
+    "typeId": "9bab6cc2e0",
+    "happenedAt": "2025-06-28T10:43:00.000Z"
+  },
+  "en": {
+    "createdAt": "2025-06-28T10:43:00.000Z",
+    "id": "c1e94c3e62",
+    "path": "dsfsdfs",
+    "categoryId": "c350363083",
+    "typeId": "9bab6cc2e0",
+    "happenedAt": "2025-06-28T10:43:00.000Z"
+  }
+}
