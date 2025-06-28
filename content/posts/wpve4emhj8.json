@@ -4,5 +4,10 @@
   "categoryId": "c350363083",
   "typeId": "9bab6cc2e0",
   "happenedAt": "2025-06-28T23:14:00.000Z",
-  "path": "sdfdsfdsfsd"
+  "path": "sdfdsfdsfsd",
+  "locales": {
+    "uk": {
+      "title": "Title"
+    }
+  }
 }
