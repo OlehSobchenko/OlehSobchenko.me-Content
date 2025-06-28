@@ -6,7 +6,10 @@
     "title": "sdfdsfsdf",
     "categoryId": "c350363083",
     "typeId": "9bab6cc2e0",
-    "happenedAt": "2025-06-28T10:21:00.000Z"
+    "happenedAt": "2025-06-28T10:21:00.000Z",
+    "video": {
+      "file": "https://youtu.be/LiR4tKdV4Sc"
+    }
   },
   "en": {
     "createdAt": "2025-06-28T10:20:00.000Z",
