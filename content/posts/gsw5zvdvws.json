@@ -1,12 +1,16 @@
 {
-  "createdAt": "2025-06-28T23:54:00.000Z",
+  "createdAt": "2025-06-30T00:17:00.000Z",
   "id": "gsw5zvdvws",
-  "categoryId": "m9fh5eaix7",
-  "typeId": "oxrzxmk2l9",
-  "happenedAt": "2025-06-28T23:54:00.000Z",
+  "categoryId": "25r5icif",
+  "typeId": "ttvznhup",
+  "happenedAt": "2025-06-30T00:17:00.000Z",
   "locales": {
     "uk": {
-      "title": "Title 2"
+      "title": "Title 2",
+      "quote": "Цитата може бути різної довжини. На відміну від спогаду чи довгого текстового матеріалу, вона не буде обрізатися чи скорочуватися еліпсисом (три крапки у кінці)."
+    },
+    "en": {
+      "quote": "A quote can be of varying lengths. Unlike a memory or a long text material, it will not be truncated or shortened with an ellipsis (three dots at the end)."
     }
   }
 }
