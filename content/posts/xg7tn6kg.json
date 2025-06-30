@@ -6,11 +6,12 @@
   "typeId": "oxrzxmk2l9",
   "locales": {
     "uk": {
-      "title": "Заголовок до спогаду"
+      "title": "Заголовок до спогаду",
+      "description": "Через довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом. \n\n> Спогад може містити цитату. Вона не буде скорочена. Навітть при вичерпанні ліміту символів для відображення прев’ю матеріалу.\n\nЧерез довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом. Через довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом. Через довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом."
     },
     "en": {
       "title": "Title for a memory",
-      "description": "Через довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом. \n\n> Спогад може містити цитату. Вона не буде скорочена. Навітть при вичерпанні ліміту символів для відображення прев’ю матеріалу.\n\nЧерез довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом. Через довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом. Через довжину спогаду, він може бути обрізаний. Щоб відкрити повну статтю, потрібно натиснути кнопку нижче для відкриття ділогово вікна з повнотекстовим матеріалом."
+      "description": "Due to the length of the memory, it may be truncated. To open the full article, you need to click the button below to open a dialog window with the full-text material. \n\n> The memory may contain a quote. It will not be shortened, even when the character limit for displaying the preview material is reached.\n\nDue to the length of the memory, it may be truncated. To open the full article, you need to click the button below to open a dialog window with the full-text material. Due to the length of the memory, it may be truncated. To open the full article, you need to click the button below to open a dialog window with the full-text material. Due to the length of the memory, it may be truncated. To open the full article, you need to click the button below to open a dialog window with the full-text material."
     }
   }
 }
