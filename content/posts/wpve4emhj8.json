@@ -1,13 +1,19 @@
 {
-  "createdAt": "2025-06-28T23:14:00.000Z",
+  "createdAt": "2025-07-01T00:15:00.000Z",
   "id": "wpve4emhj8",
-  "categoryId": "m9fh5eaix7",
-  "typeId": "oxrzxmk2l9",
-  "happenedAt": "2025-06-28T23:14:00.000Z",
+  "categoryId": "6vfyajtu",
+  "typeId": "rbnoac2b",
+  "happenedAt": "2025-07-01T00:15:00.000Z",
   "path": "sdfdsfdsfsd",
   "locales": {
     "uk": {
-      "title": "Title"
+      "title": "Приклад заголовку",
+      "shortDescription": "Опис під фотографією. Може бути у декілька рядків. Опис як і заголовок може бути відсутній."
+    },
+    "en": {
+      "title": "Example of a title",
+      "shortDescription": "Description under the photo. It can be in several lines. The description, like the title, may be absent."
     }
-  }
+  },
+  "image": "uploads/mavic.jpeg"
 }
