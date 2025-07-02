@@ -1,0 +1,19 @@
+{
+  "createdAt": "2025-07-01T00:15:00.000Z",
+  "id": "wpve4e1vf1",
+  "categoryId": "6vfyajtu",
+  "typeId": "rbnoac2b",
+  "happenedAt": "2025-07-01T00:15:00.000Z",
+  "path": "sdfdsfdsfsd",
+  "locales": {
+    "uk": {
+      "title": "Приклад заголовку",
+      "shortDescription": "Опис під фотографією. Може бути у декілька рядків. Опис як і заголовок може бути відсутній."
+    },
+    "en": {
+      "title": "Example of a title",
+      "shortDescription": "Description under the photo. It can be in several lines. The description, like the title, may be absent."
+    }
+  },
+  "image": "uploads/mavic.jpeg"
+}
