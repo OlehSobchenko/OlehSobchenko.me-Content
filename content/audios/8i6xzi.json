@@ -1,0 +1,15 @@
+{
+  "prioritized": true,
+  "id": "8i6xzi",
+  "locales": {
+    "uk": {
+      "name": "Ще один приклад",
+      "description": "Ще один приклад аудіофайлу"
+    },
+    "en": {
+      "name": "One more example",
+      "description": "One more audiofile example"
+    }
+  },
+  "link": "uploads/forest.mp3"
+}
