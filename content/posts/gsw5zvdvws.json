@@ -6,11 +6,17 @@
   "happenedAt": "2025-06-30T00:17:00.000Z",
   "locales": {
     "uk": {
-      "title": "",
+      "title": "Заголовок до цитати",
       "quote": "Цитата може бути різної довжини. На відміну від спогаду чи довгого текстового матеріалу, вона не буде обрізатися чи скорочуватися еліпсисом (три крапки у кінці)."
     },
     "en": {
-      "quote": "A quote can be of varying lengths. Unlike a memory or a long text material, it will not be truncated or shortened with an ellipsis (three dots at the end)."
+      "quote": "A quote can be of varying lengths. Unlike a memory or a long text material, it will not be truncated or shortened with an ellipsis (three dots at the end).",
+      "title": "Quote Title"
     }
+  },
+  "audio": {
+    "link": "uploads/forest.mp3",
+    "name": "Назва",
+    "description": "Короткий опис аудіофайлу"
   }
 }
