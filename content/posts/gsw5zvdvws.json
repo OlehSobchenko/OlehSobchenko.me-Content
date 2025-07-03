@@ -14,9 +14,5 @@
       "title": "Quote Title"
     }
   },
-  "audio": {
-    "link": "uploads/forest.mp3",
-    "name": "Назва",
-    "description": "Короткий опис аудіофайлу"
-  }
+  "audioId": "8i6xzi"
 }
