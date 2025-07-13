@@ -1,6 +1,6 @@
 {
   "id": "iwotvxml",
-  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 24 24\" height=\"40\" width=\"40\" id=\"MdOutlineSmartDisplay\"><path fill=\"none\" d=\"M0 0h24v24H0z\"/><path d=\"M9.5 7.5v9l7-4.5z\"/><path d=\"M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14.01H4V5.99h16v12.02z\"/></svg>",
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"40px\" viewBox=\"0 -960 960 960\" width=\"40px\"><path d=\"m388-308.67 266.67-172.66L388-654v345.33ZM146.67-160q-27 0-46.84-19.83Q80-199.67 80-226.67v-506.66q0-27 19.83-46.84Q119.67-800 146.67-800h666.66q27 0 46.84 19.83Q880-760.33 880-733.33v506.66q0 27-19.83 46.84Q840.33-160 813.33-160H146.67Zm0-66.67h666.66v-506.66H146.67v506.66Zm0 0v-506.66 506.66Z\"/></svg>",
   "locales": {
     "uk": {
       "name": "Відео"
