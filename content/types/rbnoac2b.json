@@ -1,6 +1,6 @@
 {
   "id": "rbnoac2b",
-  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" stroke=\"currentColor\" fill=\"currentColor\" stroke-width=\"0\" viewBox=\"0 0 24 24\" height=\"40\" width=\"40\" id=\"MdOutlineInsertPhoto\"><path fill=\"none\" d=\"M0 0h24v24H0V0z\"/><path d=\"M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-4.86 8.86-3 3.87L9 13.14 6 17h12l-3.86-5.14z\"/></svg>",
+  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"40px\" viewBox=\"0 -960 960 960\" width=\"40px\"><path d=\"M186.67-120q-27 0-46.84-19.83Q120-159.67 120-186.67v-586.66q0-27 19.83-46.84Q159.67-840 186.67-840h586.66q27 0 46.84 19.83Q840-800.33 840-773.33v586.66q0 27-19.83 46.84Q800.33-120 773.33-120H186.67Zm0-66.67h586.66v-586.66H186.67v586.66ZM237.33-278h486l-148-197.33-128 167.33-92-124.67-118 154.67Zm-50.66 91.33v-586.66 586.66Z\"/></svg>",
   "locales": {
     "uk": {
       "name": "Фото"
