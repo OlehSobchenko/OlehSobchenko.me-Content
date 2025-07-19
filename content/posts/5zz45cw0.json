@@ -4,5 +4,10 @@
   "id": "5zz45cw0",
   "audioId": "8i6xzi",
   "typeId": "vk6k878x",
-  "categoryId": "p3emp60s"
+  "categoryId": "p3emp60s",
+  "locales": {
+    "uk": {
+      "title": "Test"
+    }
+  }
 }
