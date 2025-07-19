@@ -2,10 +2,11 @@
   "id": "25r5icif",
   "locales": {
     "uk": {
-      "name": "Героїка 1"
+      "name": "Героїка"
     },
     "en": {
       "name": "Heroika"
     }
-  }
+  },
+  "searchable": "Героїка, Heroika"
 }
