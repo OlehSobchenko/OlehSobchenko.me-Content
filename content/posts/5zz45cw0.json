@@ -1,13 +1,16 @@
 {
-  "createdAt": "2025-03-22T00:24:00.000Z",
-  "happenedAt": "2025-03-22T00:24:00.000Z",
-  "id": "5zz45cw0",
-  "audioId": "8i6xzi",
-  "typeId": "vk6k878x",
-  "categoryId": "p3emp60s",
+  "audioId": "",
+  "happenedAt": "2023-01-25T22:36:00.000+02:00",
+  "typeId": "anmdjatv",
   "locales": {
     "uk": {
-      "title": ""
+      "title": "Невідомий подвиг полеглого героя. Солдат Собченко взяв на себе командування боєм на дамбі і не пропустив росіян до Києва",
+      "quote": "Реальна історія, яка стане легендою для майбутніх поколінь і палким свідченням – один у полі таки воїн."
     }
-  }
+  },
+  "categoryId": "6vfyajtu",
+  "link": "https://novynarnia.com/2023/01/25/sobchenko-kozarovychi/",
+  "id": "5zz45cw0",
+  "createdAt": "2025-07-23T07:24:00.000+03:00",
+  "image": "uploads/oleg-sobchenko-kozarovychi-damba.jpg"
 }
