@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-08-03T12:17:00.000+03:00",
+  "id": "39z5d8",
+  "categoryId": "ydvt07",
+  "typeId": "iwotvxml",
+  "happenedAt": "2023-12-04T12:17:00.000+02:00",
+  "video": {
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1Bn7wPcmXKi1FxBSHbRswo46wCRfopGMQ/preview\"  allow=\"autoplay\"></iframe>"
+  },
+  "locales": {
+    "uk": {
+      "title": "Відео, присвячене 50-річчю Олега Собченка",
+      "quote": "Назавжди в наших серцях"
+    }
+  }
+}
