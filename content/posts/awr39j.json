@@ -1,0 +1,16 @@
+{
+  "createdAt": "2025-10-13T01:16:00.000+03:00",
+  "id": "awr39j",
+  "displayedPreviewText": "Серце України",
+  "categoryId": "ydvt07",
+  "happenedAt": "2025-10-13T01:17:00.000+03:00",
+  "video": {
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1uLR77pE3eHEBDAlov4rWjAwoR4BHzmPW/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
+  },
+  "locales": {
+    "uk": {
+      "title": "Інтерактивна інсталяція \"Серце України\""
+    }
+  },
+  "typeId": "iwotvxml"
+}
