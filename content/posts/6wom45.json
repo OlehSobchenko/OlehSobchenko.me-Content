@@ -1,0 +1,17 @@
+{
+  "createdAt": "2025-10-12T22:54:00.000+03:00",
+  "id": "6wom45",
+  "displayedPreviewText": "Лови Момент",
+  "categoryId": "m9fh5eaix7",
+  "typeId": "iwotvxml",
+  "happenedAt": "2019-07-20T22:54:00.000+03:00",
+  "video": {
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1bHhbGbbM-73jhEvNAPbi6C-5bnuiwo2Q/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
+  },
+  "locales": {
+    "uk": {
+      "title": "Експериментальний запуск хлорели у річку Рось",
+      "description": "Це був другий етап експериментального запуску хлорели у річку Рось, в районі Виграєва.\n\nОлег зумів об'єднати і надихнути десятки людей, які зібрались для втілення спільної мети."
+    }
+  }
+}
