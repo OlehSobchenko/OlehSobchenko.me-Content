@@ -1,0 +1,17 @@
+{
+  "createdAt": "2025-10-13T01:07:00.000+03:00",
+  "id": "uxm1dy",
+  "displayedPreviewText": "Про Стеблівську ГЕС",
+  "categoryId": "m9fh5eaix7",
+  "typeId": "iwotvxml",
+  "happenedAt": "2019-07-13T01:12:00.000+03:00",
+  "video": {
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1jJvvFjGMrnPZ4jkM0nD1weQLAGl5SfJp/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
+  },
+  "locales": {
+    "uk": {
+      "title": "Розповідь Олега про Стеблівську ГЕС",
+      "source": "Олег Собченко"
+    }
+  }
+}
