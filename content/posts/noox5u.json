@@ -1,8 +1,6 @@
 {
-  "createdAt": "2025-10-13T00:08:00.000+03:00",
-  "id": "noox5u",
   "displayedPreviewText": "Про втрати",
-  "categoryId": "6vfyajtu",
+  "happenedAt": "2022-06-15T00:16:00.000+03:00",
   "typeId": "ttvznhup",
   "locales": {
     "uk": {
@@ -12,6 +10,11 @@
       "source": "Олег Собченко"
     }
   },
-  "happenedAt": "2022-06-15T00:16:00.000+03:00",
-  "link": "<iframe src=\"https://drive.google.com/file/d/1IwkwifYxLHRgGY5HV_oi1_KZNBGC6uyt/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
+  "categoryId": "6vfyajtu",
+  "link": "",
+  "video": {
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1IwkwifYxLHRgGY5HV_oi1_KZNBGC6uyt/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
+  },
+  "id": "noox5u",
+  "createdAt": "2025-10-13T00:08:00.000+03:00"
 }
