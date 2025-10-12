@@ -1,0 +1,17 @@
+{
+  "createdAt": "2025-10-13T01:20:00.000+03:00",
+  "id": "d3jy30",
+  "displayedPreviewText": "\"Наша фортеця Вугледар\"",
+  "categoryId": "6vfyajtu",
+  "typeId": "iwotvxml",
+  "happenedAt": "2025-10-13T01:21:00.000+03:00",
+  "video": {
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1Mg1LFKb5A60IlOh_Kh9bAb2TZivmQN3T/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
+  },
+  "locales": {
+    "uk": {
+      "title": "Вугледар. \"Наша Фортеця\"",
+      "description": "\"Наша Фортеця\" - так писав про Вугледар Олег. Він зняв і змонтував це відео 21 січня 2023 року, за три дні до загибелі. "
+    }
+  }
+}
