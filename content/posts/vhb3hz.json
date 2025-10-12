@@ -11,7 +11,7 @@
   "categoryId": "6vfyajtu",
   "link": "",
   "video": {
-    "embed": "<iframe src=\"https://drive.google.com/file/d/1v-KpoNOo_6o2dZse5bkgxXqfpTyPA6dW/preview\"  allow=\"autoplay\"></iframe>"
+    "embed": "<iframe src=\"https://drive.google.com/file/d/1v-KpoNOo_6o2dZse5bkgxXqfpTyPA6dW/preview\" width=\"640\" height=\"480\" allow=\"autoplay\"></iframe>"
   },
   "id": "vhb3hz",
   "createdAt": "2025-10-12T21:55:00.000+03:00"
