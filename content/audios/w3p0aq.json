@@ -4,12 +4,13 @@
   "link": "uploads/lovy-moment.m4a",
   "locales": {
     "uk": {
-      "name": "20 Лови момент",
+      "name": "Лови момент",
       "description": "Антитіла"
     },
     "en": {
       "name": "Lovy moment",
       "description": "Antytila"
     }
-  }
+  },
+  "priority": 20
 }
