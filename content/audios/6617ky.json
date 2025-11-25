@@ -4,12 +4,13 @@
   "link": "uploads/taruta_skyl_-_obtnicya_60365781.mp3",
   "locales": {
     "uk": {
-      "name": "10 Обітниця",
+      "name": "Обітниця",
       "description": "TaRuta та SKYLE "
     },
     "en": {
       "name": " The Vow",
       "description": " TaRuta and SKYLE"
     }
-  }
+  },
+  "priority": 10
 }
