@@ -4,12 +4,13 @@
   "link": "uploads/ой-у-полі-верба-cossack-song.mp3",
   "locales": {
     "uk": {
-      "name": "30 Одна з улюблених пісень Олега",
+      "name": "Одна з улюблених пісень Олега",
       "description": "Про цю пісню згадує Ігор Луценко у своєму дописі, присвяченому річниці загибелі Олега"
     },
     "en": {
       "name": "One of Oleg's favorite songs",
       "description": "Ihor Lutsenko mentions this song in his post dedicated to the anniversary of Oleg's death"
     }
-  }
+  },
+  "priority": 30
 }
